@@ -65,7 +65,7 @@ CLIP is a VLM used for zero-shot image classification
 Learn more about CLIP here:  
 [OpenAI: CLIP GitHub Repository](https://github.com/openai/CLIP)
 
-### **3. RF-DETR **
+### **3. RF-DETR**
 RF-DETR is a detection transformer optimized for real-time object detection.
 
 
