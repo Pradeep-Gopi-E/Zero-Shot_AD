@@ -1,6 +1,6 @@
 # Zero-Shot Anomaly Detection with PaliGemma, CLIP, and RF-DETR
 
-This repository demonstrates an advanced approach to zero-shot anomaly detection using PaliGemma and CLIP models, along with fine-tuning of PaliGemma and RF-DETR. The project leverages the capabilities of these models to detect anomalies in datasets like MVTec AD and FracAtlas.
+This repository demonstrates an approach to zero-shot anomaly detection using PaliGemma and CLIP models, and anomaly detction with fine-tuned PaliGemma and RF-DETR. The project leverages the capabilities of these models to detect anomalies in datasets like MVTec AD and FracAtlas.
 
 ---
 
