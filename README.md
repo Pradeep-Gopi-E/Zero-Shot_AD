@@ -73,3 +73,6 @@ Explore RF-DETR in the official repository:
 [RoboFlow: RF-DETR GitHub Repository](https://github.com/roboflow/rf-detr)
 
 ---
+## Acknowledgment
+
+This work is part of my **Master's thesis** at **Hochschule Furtwangen University**.
